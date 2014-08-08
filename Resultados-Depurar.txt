@@ -1,0 +1,38 @@
+﻿'iisexpress.exe' (Administrado (v2.0.50727)): se cargó 'C:\WINDOWS\assembly\GAC_32\mscorlib\2.0.0.0__b77a5c561934e089\mscorlib.dll', se omitió la carga de símbolos. Se optimizó el módulo y se habilitó la opción 'Solo mi código'.
+'iisexpress.exe' (Administrado (v2.0.50727)): se cargó 'C:\WINDOWS\assembly\GAC_32\System.Web\2.0.0.0__b03f5f7f11d50a3a\System.Web.dll', se omitió la carga de símbolos. Se optimizó el módulo y se habilitó la opción 'Solo mi código'.
+'iisexpress.exe' (Administrado (v2.0.50727)): se cargó 'C:\WINDOWS\assembly\GAC_MSIL\System\2.0.0.0__b77a5c561934e089\System.dll', se omitió la carga de símbolos. Se optimizó el módulo y se habilitó la opción 'Solo mi código'.
+'iisexpress.exe' (Administrado (v2.0.50727)): se cargó 'C:\WINDOWS\assembly\GAC_MSIL\mscorlib.resources\2.0.0.0_es_b77a5c561934e089\mscorlib.resources.dll'
+'iisexpress.exe' (Administrado (v2.0.50727)): se cargó 'C:\WINDOWS\assembly\GAC_MSIL\System.Configuration\2.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll', se omitió la carga de símbolos. Se optimizó el módulo y se habilitó la opción 'Solo mi código'.
+'iisexpress.exe' (Administrado (v2.0.50727)): se cargó 'C:\WINDOWS\assembly\GAC_MSIL\System.Xml\2.0.0.0__b77a5c561934e089\System.Xml.dll', se omitió la carga de símbolos. Se optimizó el módulo y se habilitó la opción 'Solo mi código'.
+'iisexpress.exe' (Administrado (v2.0.50727)): se cargó 'C:\WINDOWS\assembly\GAC_MSIL\System.Web.RegularExpressions\2.0.0.0__b03f5f7f11d50a3a\System.Web.RegularExpressions.dll', se omitió la carga de símbolos. Se optimizó el módulo y se habilitó la opción 'Solo mi código'.
+'iisexpress.exe' (Administrado (v2.0.50727)): se cargó 'C:\WINDOWS\assembly\GAC_MSIL\System.Design\2.0.0.0__b03f5f7f11d50a3a\System.Design.dll', se omitió la carga de símbolos. Se optimizó el módulo y se habilitó la opción 'Solo mi código'.
+'iisexpress.exe' (Administrado (v2.0.50727)): se cargó 'C:\WINDOWS\assembly\GAC_32\System.Data\2.0.0.0__b77a5c561934e089\System.Data.dll', se omitió la carga de símbolos. Se optimizó el módulo y se habilitó la opción 'Solo mi código'.
+'iisexpress.exe' (Administrado (v2.0.50727)): se cargó 'C:\WINDOWS\assembly\GAC_32\System.Transactions\2.0.0.0__b77a5c561934e089\System.Transactions.dll', se omitió la carga de símbolos. Se optimizó el módulo y se habilitó la opción 'Solo mi código'.
+'iisexpress.exe' (Administrado (v2.0.50727)): se cargó 'C:\WINDOWS\assembly\GAC_32\System.EnterpriseServices\2.0.0.0__b03f5f7f11d50a3a\System.EnterpriseServices.dll', se omitió la carga de símbolos. Se optimizó el módulo y se habilitó la opción 'Solo mi código'.
+'iisexpress.exe' (Administrado (v2.0.50727)): se cargó 'C:\WINDOWS\assembly\GAC_MSIL\Microsoft.JScript\8.0.0.0__b03f5f7f11d50a3a\Microsoft.JScript.dll', se omitió la carga de símbolos. Se optimizó el módulo y se habilitó la opción 'Solo mi código'.
+'iisexpress.exe' (Administrado (v2.0.50727)): se cargó 'C:\WINDOWS\assembly\GAC_MSIL\CppCodeProvider\8.0.0.0__b03f5f7f11d50a3a\CppCodeProvider.dll'
+'iisexpress.exe' (Administrado (v2.0.50727)): se cargó 'C:\WINDOWS\assembly\GAC_MSIL\System.Web.Services\2.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll', se omitió la carga de símbolos. Se optimizó el módulo y se habilitó la opción 'Solo mi código'.
+'iisexpress.exe' (Administrado (v2.0.50727)): se cargó 'C:\WINDOWS\assembly\GAC_MSIL\System.Drawing\2.0.0.0__b03f5f7f11d50a3a\System.Drawing.dll', se omitió la carga de símbolos. Se optimizó el módulo y se habilitó la opción 'Solo mi código'.
+'iisexpress.exe' (Administrado (v2.0.50727)): se cargó 'C:\WINDOWS\assembly\GAC_32\System.EnterpriseServices\2.0.0.0__b03f5f7f11d50a3a\System.EnterpriseServices.Wrapper.dll', se omitió la carga de símbolos. Se optimizó el módulo y se habilitó la opción 'Solo mi código'.
+'iisexpress.exe' (Administrado (v2.0.50727)): se cargó 'C:\WINDOWS\assembly\GAC_MSIL\System.Web.Mobile\2.0.0.0__b03f5f7f11d50a3a\System.Web.Mobile.dll'
+'iisexpress.exe' (Administrado (v2.0.50727)): se cargó 'C:\Users\Jose Luis Arias\AppData\Local\Temp\Temporary ASP.NET Files\root\bf6a1f61\daa8656b\assembly\dl3\bd98ba5b\f74972f2_eba2cf01\SAYB.ESISMA.wsConectividad.DLL', símbolos cargados.
+'iisexpress.exe' (Administrado (v2.0.50727)): se cargó 'C:\WINDOWS\assembly\GAC_MSIL\System.ServiceModel.Web\3.5.0.0__31bf3856ad364e35\System.ServiceModel.Web.dll'
+'iisexpress.exe' (Administrado (v2.0.50727)): se cargó 'C:\WINDOWS\assembly\GAC_MSIL\System.WorkflowServices\3.5.0.0__31bf3856ad364e35\System.WorkflowServices.dll'
+'iisexpress.exe' (Administrado (v2.0.50727)): se cargó 'C:\WINDOWS\assembly\GAC_MSIL\System.Runtime.Serialization\3.0.0.0__b77a5c561934e089\System.Runtime.Serialization.dll'
+'iisexpress.exe' (Administrado (v2.0.50727)): se cargó 'C:\WINDOWS\assembly\GAC_MSIL\System.IdentityModel\3.0.0.0__b77a5c561934e089\System.IdentityModel.dll'
+'iisexpress.exe' (Administrado (v2.0.50727)): se cargó 'C:\WINDOWS\assembly\GAC_MSIL\System.ServiceModel\3.0.0.0__b77a5c561934e089\System.ServiceModel.dll'
+'iisexpress.exe' (Administrado (v2.0.50727)): se cargó 'C:\WINDOWS\assembly\GAC_MSIL\SMDiagnostics\3.0.0.0__b77a5c561934e089\SMDiagnostics.dll'
+'iisexpress.exe' (Administrado (v2.0.50727)): se cargó 'C:\WINDOWS\assembly\GAC_MSIL\System.Web.Services.resources\2.0.0.0_es_b03f5f7f11d50a3a\System.Web.Services.resources.dll'
+'iisexpress.exe' (Administrado (v2.0.50727)): se cargó 'A_8c098202_47b6_4200_a8fe_25ec66cccc59'
+'iisexpress.exe' (Administrado (v2.0.50727)): se cargó 'M_8c098202_47b6_4200_a8fe_25ec66cccc59'
+'iisexpress.exe' (Administrado (v2.0.50727)): se cargó 'C:\WINDOWS\assembly\GAC_MSIL\System.resources\2.0.0.0_es_b77a5c561934e089\System.resources.dll'
+'iisexpress.exe' (Administrado (v2.0.50727)): se cargó 'C:\WINDOWS\assembly\GAC_MSIL\System.Web.resources\2.0.0.0_es_b03f5f7f11d50a3a\System.Web.resources.dll'
+'iisexpress.exe' (Administrado (v2.0.50727)): se cargó 'C:\Users\Jose Luis Arias\AppData\Local\Temp\Temporary ASP.NET Files\root\bf6a1f61\daa8656b\App_Web_defaultwsdlhelpgenerator.aspx.cdcab7d2.ujnqnshl.dll', símbolos cargados.
+'iisexpress.exe' (Administrado (v2.0.50727)): se cargó 'vs6afkc4'
+'iisexpress.exe' (Administrado (v2.0.50727)): se cargó 'C:\WINDOWS\assembly\GAC_MSIL\Microsoft.VisualBasic\8.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualBasic.dll', se omitió la carga de símbolos. Se optimizó el módulo y se habilitó la opción 'Solo mi código'.
+'iisexpress.exe' (Administrado (v2.0.50727)): se cargó 'C:\WINDOWS\assembly\GAC_MSIL\Microsoft.VisualStudio.Debugger.Runtime\11.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.Debugger.Runtime.dll'
+'iisexpress.exe' (Administrado (v2.0.50727)): se cargó 'shfrdemw'
+'iisexpress.exe' (Administrado (v2.0.50727)): se cargó 'C:\WINDOWS\assembly\GAC_MSIL\Microsoft.VisualBasic.resources\8.0.0.0_es_b03f5f7f11d50a3a\Microsoft.VisualBasic.resources.dll'
+'iisexpress.exe' (Administrado (v2.0.50727)): se cargó 'C:\WINDOWS\assembly\GAC_MSIL\System.Core\3.5.0.0__b77a5c561934e089\System.Core.dll', se omitió la carga de símbolos. Se optimizó el módulo y se habilitó la opción 'Solo mi código'.
+'iisexpress.exe' (Administrado (v2.0.50727)): se cargó 'C:\WINDOWS\assembly\GAC_MSIL\System.Data.resources\2.0.0.0_es_b77a5c561934e089\System.Data.resources.dll', se omitió la carga de símbolos. Se optimizó el módulo y se habilitó la opción 'Solo mi código'.
+El programa '[12172] iisexpress.exe: Administrado (v2.0.50727)' terminó con código 0 (0x0).

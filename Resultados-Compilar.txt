@@ -1,0 +1,15 @@
+﻿------ Publicación iniciada: proyecto: SAYB.ESISMA.wsConectividad, configuración: Debug Any CPU ------
+Conectándose a D:\Publicado...
+Se transformó Web.config usando C:\Users\Jose Luis Arias\GDrive A&B\USP\Sistemas\Proyecto USP\Proyectos\VS2012\SAYB.ESISMA.wsConectividad\SAYB.ESISMA.wsConectividad\Web.Debug.config en obj\Debug\TransformWebConfig\transformed\Web.config.
+Copiando todos los archivos en la ubicación temporal siguiente para el empaquetado y publicación:
+obj\Debug\AspnetCompileMerge\Source.
+C:\Windows\Microsoft.NET\Framework\v2.0.50727\aspnet_compiler.exe -v / -p "C:\Users\Jose Luis Arias\GDrive A&B\USP\Sistemas\Proyecto USP\Proyectos\VS2012\SAYB.ESISMA.wsConectividad\SAYB.ESISMA.wsConectividad\obj\Debug\AspnetCompileMerge\Source" -u -c "C:\Users\Jose Luis Arias\GDrive A&B\USP\Sistemas\Proyecto USP\Proyectos\VS2012\SAYB.ESISMA.wsConectividad\SAYB.ESISMA.wsConectividad\obj\Debug\AspnetCompileMerge\TempBuildDir" 
+Copiando todos los archivos en la ubicación temporal siguiente para el empaquetado y publicación:
+obj\Debug\Package\PackageTmp.
+Eliminando archivos existentes...
+Publicando carpeta /...
+Publicando carpeta bin...
+El sitio se ha publicado correctamente file:///D:/Publicado
+
+========== Compilar: 0 correctos, 0 incorrectos, 1 actualizados, 0 omitidos ==========
+========== Publicación: 1 procesados, 0 no procesados, 0 omitidos ==========
